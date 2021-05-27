@@ -1,5 +1,5 @@
 # health-data-collector
-A application for health care workers to collect patients data while offering health care services.
+An application for health care workers to collect patients data while offering health care services. 
 
 Download the app here : [downlaod link](app-release.apk)
 
