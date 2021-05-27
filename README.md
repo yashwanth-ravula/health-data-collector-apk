@@ -4,4 +4,6 @@ A application for health care workers to collect patients data while offering he
 <p align="center">
   <img src="Screenshot_1622094897.png" width="256" height="455">
   <img src="Screenshot_1622094902.png" width="256" height="455">
+  <img src="Screenshot_1622094912.png" width="256" height="455">
+  <img src="Screenshot_1622094902.png" width="256" height="455">
 </p>
